@@ -32,6 +32,7 @@ const config = {
             })
         } catch (err) {
             console.log('error creating user', err.message);
+            alert(err.message);
         }
     }
 
