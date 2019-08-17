@@ -29,3 +29,15 @@
   margin-left: auto;
   font-size: 36px;
 }
+
+.checkout-page button {
+  margin-left: auto;
+  margin-top: 50px;
+}
+
+.checkout-page .test-warning {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 24px;
+  color: red;
+}
